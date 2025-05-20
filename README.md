@@ -1,7 +1,15 @@
+Flat price :
+
 Model v1.1
 
-OLS Summary : 
-![OLSSummary](img/ols_summary.jpg)
+OLS Summary
+![OLSSummary](flat/img/ols_summary.jpg)
 
 Model Output (train and test)
-![ModelOutput](img/output.png)
+![ModelOutput](flat/img/output.png)
+
+
+Spread research :
+
+Front spread premium/discount
+![ModelOutput](spread/img/premium_discount.png)
