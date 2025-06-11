@@ -13,3 +13,6 @@ Spread research :
 
 Front spread premium/discount
 ![ModelOutput](spread/img/premium_discount.png)
+
+Spread Seasonality 
+![ModelOutput](spread/img/spread_seasonality.png)
