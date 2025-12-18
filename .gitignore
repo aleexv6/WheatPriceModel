@@ -3,6 +3,7 @@
 *.csv
 *.xlsx
 *.txt
+*.parquet
 config.py
 database.py
 
